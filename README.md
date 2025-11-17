@@ -1,4 +1,5 @@
-Orcs vs Night Elves Battle Simulator
+# Fantasy Arena Battle Simulator (Python)
 
-This is a simple battle simulator where Orcs and Night Elves fight each other. Each round represents a fight between two warriors, and the battle continues until one side is defeated.
-
+This project is a turn-based combat simulator featuring battles between two fantasy factions:
+**Orcs** and **Night Elves**. Each character has health, attack speed, and attack delay, creating
+a dynamic auto-battle experience.
